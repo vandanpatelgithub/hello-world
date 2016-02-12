@@ -2,7 +2,7 @@
 public class Hello_World {
 
 	/**
-	 * Random Stuff
+	 * Random Stuff VP
 	 * @param args
 	 */
 	public static void main(String[] args) {
